@@ -21,13 +21,13 @@
     line-height: 0;
 }
 .rip::before{
-    content: "HELLO";
+    content: "NICE";
     overflow: hidden;
     transform: translateY(-15%);
 
 }
 .rip::after{
-    content: "HELLO";
+    content: "NICE";
     overflow: hidden;
     transform: translateY(65%);
 
