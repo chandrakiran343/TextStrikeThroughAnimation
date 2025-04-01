@@ -21,7 +21,7 @@
     line-height: 0;
 }
 .rip::before{
-    content:"NICE";
+    content:"NITYA";
     overflow: hidden;
     transform: translateY(-15%);
 
